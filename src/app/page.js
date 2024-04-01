@@ -66,7 +66,7 @@ export default function Home() {
 
     getPlayers();
     getQuestionIndex();
-  }, [quizChainChallengeContractR]);
+  }, [quizChainChallengeContractR, address]);
 
   const getQuestionIndex = async () => {
     if(!address) return;
