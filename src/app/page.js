@@ -199,7 +199,7 @@ export default function Home() {
             <span className="md:text-start text-md">We hope you enjoyed this month's quiz! The answers will be announced at the end of the month.</span>
             <div className="flex flex-row justify-center items-center gap-4">
               <a href="#" data-tooltip-id="info-tooltip" data-tooltip-content="Coming Soon" className="text-md transition duration-200 ease-in-out hover:scale-125 active:scale-100 active:duration-100"><FontAwesomeIcon icon={faXTwitter} className="w-5 h-5" /></a>
-              <a href="#" className="text-md transition duration-200 ease-in-out hover:scale-125 active:scale-100 active:duration-100"><FontAwesomeIcon icon={faGithub} className="w-5 h-5" /></a>
+              <a href="https://github.com/beaxvision/quizchain-challenge-contracts" className="text-md transition duration-200 ease-in-out hover:scale-125 active:scale-100 active:duration-100"><FontAwesomeIcon icon={faGithub} className="w-5 h-5" /></a>
             </div>
           </div>
         </div>
