@@ -1,0 +1,702 @@
+[
+    {
+        "question": "Define blockchain technology.",
+        "answers": {
+            "a": "Decentralized digital ledger.",
+            "b": "Centralized computing system."
+        }
+    },
+    {
+        "question": "Primary purpose of blockchain?",
+        "answers": {
+            "a": "Data storage only.",
+            "b": "Secure, transparent transactions."
+        }
+    },
+    {
+        "question": "What is decentralization?",
+        "answers": {
+            "a": "Distribution of control.",
+            "b": "Central authority control."
+        }
+    },
+    {
+        "question": "Blockchain vs traditional database?",
+        "answers": {
+            "a": "Both are centralized.",
+            "b": "Distributed vs centralized."
+        }
+    },
+    {
+        "question": "What's a smart contract?",
+        "answers": {
+            "a": "Paper-based agreement.",
+            "b": "Self-executing contract."
+        }
+    },
+    {
+        "question": "Characteristic of public blockchain?",
+        "answers": {
+            "a": "Open to all.",
+            "b": "Restricted access."
+        }
+    },
+    {
+        "question": "Can blockchain data alter?",
+        "answers": {
+            "a": "Immutable once verified.",
+            "b": "Easily modifiable."
+        }
+    },
+    {
+        "question": "Role of nodes in blockchain?",
+        "answers": {
+            "a": "Generate electricity.",
+            "b": "Maintain blockchain network."
+        }
+    },
+    {
+        "question": "Is blockchain technology secure?",
+        "answers": {
+            "a": "No security.",
+            "b": "Highly secure."
+        }
+    },
+    {
+        "question": "Blockchain's impact on trust?",
+        "answers": {
+            "a": "Decreases trust.",
+            "b": "Increases trust."
+        }
+    },
+    {
+        "question": "How are new blocks added?",
+        "answers": {
+            "a": "Through mining.",
+            "b": "Random selection."
+        }
+    },
+    {
+        "question": "Can blockchain operate offline?",
+        "answers": {
+            "a": "Needs internet connection.",
+            "b": "Operates offline."
+        }
+    },
+    {
+        "question": "Blockchain's scalability issue solution?",
+        "answers": {
+            "a": "Layer 2 solutions.",
+            "b": "Unsolvable."
+        }
+    },
+    {
+        "question": "Does blockchain support anonymity?",
+        "answers": {
+            "a": "Pseudonymous, not anonymous.",
+            "b": "Fully anonymous."
+        }
+    },
+    {
+        "question": "Blockchain transaction fees reason?",
+        "answers": {
+            "a": "Network maintenance.",
+            "b": "Profit for founders."
+        }
+    },
+    {
+        "question": "What validates blockchain transactions?",
+        "answers": {
+            "a": "Consensus mechanisms.",
+            "b": "Single administrator."
+        }
+    },
+    {
+        "question": "Are all cryptocurrencies blockchain-based?",
+        "answers": {
+            "a": "No, not related.",
+            "b": "Yes, essentially."
+        }
+    },
+    {
+        "question": "Blockchain's effect on data integrity?",
+        "answers": {
+            "a": "Enhances integrity.",
+            "b": "Reduces integrity."
+        }
+    },
+    {
+        "question": "Blockchain in non-financial sectors?",
+        "answers": {
+            "a": "Widely applicable.",
+            "b": "Finance only."
+        }
+    },
+    {
+        "question": "Future of blockchain technology?",
+        "answers": {
+            "a": "Continuously evolving.",
+            "b": "Static, unchanging."
+        }
+    },
+    {
+        "question": "What initiates a blockchain transaction?",
+        "answers": {
+            "a": "Transaction request.",
+            "b": "External audit."
+        }
+    },
+    {
+        "question": "Are blockchain transactions encrypted?",
+        "answers": {
+            "a": "Yes, securely.",
+            "b": "No, public."
+        }
+    },
+    {
+        "question": "Blockchain: open-source technology?",
+        "answers": {
+            "a": "No, proprietary.",
+            "b": "Generally, yes."
+        }
+    },
+    {
+        "question": "Effect of blockchain on data accuracy?",
+        "answers": {
+            "a": "Improves accuracy.",
+            "b": "Decreases accuracy."
+        }
+    },
+    {
+        "question": "Can blockchains be private?",
+        "answers": {
+            "a": "Yes, restricted.",
+            "b": "Public only."
+        }
+    },
+    {
+        "question": "Is blockchain suitable for voting?",
+        "answers": {
+            "a": "Offers transparency.",
+            "b": "Too insecure."
+        }
+    },
+    {
+        "question": "Blockchain's role in identity verification?",
+        "answers": {
+            "a": "Enhances security.",
+            "b": "No role."
+        }
+    },
+    {
+        "question": "Do blockchains reduce transaction costs?",
+        "answers": {
+            "a": "Significantly.",
+            "b": "Increases costs."
+        }
+    },
+    {
+        "question": "Blockchain in digital art: known as?",
+        "answers": {
+            "a": "NFTs.",
+            "b": "PDFs."
+        }
+    },
+    {
+        "question": "How are blockchain records verified?",
+        "answers": {
+            "a": "Network consensus.",
+            "b": "Single user."
+        }
+    },
+    {
+        "question": "Blockchain record: Alterable after confirmation?",
+        "answers": {
+            "a": "Unalterable.",
+            "b": "Easily changed."
+        }
+    },
+    {
+        "question": "Essential feature of blockchain technology?",
+        "answers": {
+            "a": "Decentralization.",
+            "b": "Central server."
+        }
+    },
+    {
+        "question": "Blockchain's best-known application?",
+        "answers": {
+            "a": "Cryptocurrency.",
+            "b": "Social media."
+        }
+    },
+    {
+        "question": "Main benefit of blockchain in finance?",
+        "answers": {
+            "a": "Higher fees.",
+            "b": "Reduced fraud."
+        }
+    },
+    {
+        "question": "Blockchain's consensus mechanism purpose?",
+        "answers": {
+            "a": "Validate transactions.",
+            "b": "Increase speed."
+        }
+    },
+    {
+        "question": "What is tokenization in blockchain?",
+        "answers": {
+            "a": "Asset digitalization.",
+            "b": "Data encryption."
+        }
+    },
+    {
+        "question": "Impact of blockchain on supply chains?",
+        "answers": {
+            "a": "Increased transparency.",
+            "b": "Reduced efficiency."
+        }
+    },
+    {
+        "question": "Blockchain's role in digital identity?",
+        "answers": {
+            "a": "Enhanced security.",
+            "b": "Lowered security."
+        }
+    },
+    {
+        "question": "Are blockchain systems infallible?",
+        "answers": {
+            "a": "Yes, perfect.",
+            "b": "No, vulnerable."
+        }
+    },
+    {
+        "question": "Can blockchain improve data privacy?",
+        "answers": {
+            "a": "Yes, significantly.",
+            "b": "No effect."
+        }
+    },
+    {
+        "question": "Is blockchain good for storing large data?",
+        "answers": {
+            "a": "Best choice.",
+            "b": "Not ideal."
+        }
+    },
+    {
+        "question": "How does blockchain affect auditing?",
+        "answers": {
+            "a": "Simplifies process.",
+            "b": "Complicates process."
+        }
+    },
+    {
+        "question": "What's a blockchain fork?",
+        "answers": {
+            "a": "Protocol changes.",
+            "b": "System failure."
+        }
+    },
+    {
+        "question": "Role of encryption in blockchain?",
+        "answers": {
+            "a": "Secures transactions.",
+            "b": "Slows down."
+        }
+    },
+    {
+        "question": "Blockchain's potential in healthcare?",
+        "answers": {
+            "a": "Increases risk.",
+            "b": "Improves records."
+        }
+    },
+    {
+        "question": "Is blockchain technology scalable?",
+        "answers": {
+            "a": "Challenges exist.",
+            "b": "Inherently scalable."
+        }
+    },
+    {
+        "question": "Blockchain's impact on voting systems?",
+        "answers": {
+            "a": "More secure.",
+            "b": "Less reliable."
+        }
+    },
+    {
+        "question": "Difference between blockchain and Bitcoin?",
+        "answers": {
+            "a": "Tech vs currency.",
+            "b": "No difference."
+        }
+    },
+    {
+        "question": "Can blockchain work without cryptocurrency?",
+        "answers": {
+            "a": "No, dependent.",
+            "b": "Yes, versatile."
+        }
+    },
+    {
+        "question": "What ensures blockchain's immutability?",
+        "answers": {
+            "a": "User agreements.",
+            "b": "Cryptographic hashes."
+        }
+    },
+    {
+        "question": "Blockchain's effect on transaction speed?",
+        "answers": {
+            "a": "Varies by network.",
+            "b": "Always faster."
+        }
+    },
+    {
+        "question": "What is a blockchain oracle?",
+        "answers": {
+            "a": "External data source.",
+            "b": "Prediction market."
+        }
+    },
+    {
+        "question": "Blockchain's energy consumption issue?",
+        "answers": {
+            "a": "Depends on protocol.",
+            "b": "Non-existent."
+        }
+    },
+    {
+        "question": "Primary challenge in blockchain adoption?",
+        "answers": {
+            "a": "Regulatory uncertainty.",
+            "b": "Lack of interest."
+        }
+    },
+    {
+        "question": "What's blockchain sharding?",
+        "answers": {
+            "a": "Data partitioning.",
+            "b": "Data encryption."
+        }
+    },
+    {
+        "question": "Can blockchains prevent fraud?",
+        "answers": {
+            "a": "Significantly reduces risk.",
+            "b": "Increases fraud."
+        }
+    },
+    {
+        "question": "How does blockchain ensure data accuracy?",
+        "answers": {
+            "a": "Through consensus.",
+            "b": "Manual verification."
+        }
+    },
+    {
+        "question": "What's a blockchain ledger?",
+        "answers": {
+            "a": "Physical book.",
+            "b": "Digital transaction record."
+        }
+    },
+    {
+        "question": "Blockchain: suitable for all businesses?",
+        "answers": {
+            "a": "Universally suitable.",
+            "b": "Depends on needs."
+        }
+    },
+    {
+        "question": "How do blockchains use timestamps?",
+        "answers": {
+            "a": "Record transaction times.",
+            "b": "Estimate block value."
+        }
+    },
+    {
+        "question": "Impact of blockchains on intermediaries?",
+        "answers": {
+            "a": "Increases reliance.",
+            "b": "Reduces necessity."
+        }
+    },
+    {
+        "question": "Are blockchain records public?",
+        "answers": {
+            "a": "Depends on blockchain.",
+            "b": "Always private."
+        }
+    },
+    {
+        "question": "Blockchain application in real estate?",
+        "answers": {
+            "a": "Streamlines transactions.",
+            "b": "No application."
+        }
+    },
+    {
+        "question": "Do blockchains store physical assets?",
+        "answers": {
+            "a": "Represents digitally.",
+            "b": "Stores physically."
+        }
+    },
+    {
+        "question": "Is blockchain synonymous with Bitcoin?",
+        "answers": {
+            "a": "No, broader tech.",
+            "b": "Yes, identical."
+        }
+    },
+    {
+        "question": "Blockchain's role in data privacy?",
+        "answers": {
+            "a": "Enhances control.",
+            "b": "Reduces privacy."
+        }
+    },
+    {
+        "question": "How does blockchain handle errors?",
+        "answers": {
+            "a": "Easy correction.",
+            "b": "Immutable, errors stay."
+        }
+    },
+    {
+        "question": "Blockchain's impact on employment?",
+        "answers": {
+            "a": "Reduces all jobs.",
+            "b": "Transforms job markets."
+        }
+    },
+    {
+        "question": "What is blockchain interoperability?",
+        "answers": {
+            "a": "Cross-chain communication.",
+            "b": "Operating in isolation."
+        }
+    },
+    {
+        "question": "Blockchain in intellectual property?",
+        "answers": {
+            "a": "Manages and protects.",
+            "b": "No impact."
+        }
+    },
+    {
+        "question": "Can blockchain improve auditing processes?",
+        "answers": {
+            "a": "Yes, automates audits.",
+            "b": "No, complicates them."
+        }
+    },
+    {
+        "question": "Blockchain's role in fighting counterfeit goods?",
+        "answers": {
+            "a": "Tracks authenticity.",
+            "b": "No impact."
+        }
+    },
+    {
+        "question": "How does blockchain achieve consensus?",
+        "answers": {
+            "a": "Through algorithms.",
+            "b": "Central authority."
+        }
+    },
+    {
+        "question": "Is blockchain technology environmentally friendly?",
+        "answers": {
+            "a": "Depends on usage.",
+            "b": "Always green."
+        }
+    },
+    {
+        "question": "Blockchain in the music industry: effect?",
+        "answers": {
+            "a": "Lower profits.",
+            "b": "Fairer revenue."
+        }
+    },
+    {
+        "question": "How are blockchain transactions validated?",
+        "answers": {
+            "a": "Network nodes.",
+            "b": "Single server."
+        }
+    },
+    {
+        "question": "Does blockchain replace traditional banking?",
+        "answers": {
+            "a": "Fully replaces.",
+            "b": "Supplements banking."
+        }
+    },
+    {
+        "question": "Blockchain's impact on software development?",
+        "answers": {
+            "a": "No change.",
+            "b": "Introduces DApps."
+        }
+    },
+    {
+        "question": "Can blockchain secure IoT devices?",
+        "answers": {
+            "a": "Yes, enhances security.",
+            "b": "No, irrelevant."
+        }
+    },
+    {
+        "question": "How does blockchain handle data privacy?",
+        "answers": {
+            "a": "Enhances privacy.",
+            "b": "Exposes data."
+        }
+    },
+    {
+        "question": "Blockchain's influence on global trade?",
+        "answers": {
+            "a": "Improves efficiency.",
+            "b": "Hinders trade."
+        }
+    },
+    {
+        "question": "What accelerates blockchain adoption?",
+        "answers": {
+            "a": "Technology maturation.",
+            "b": "Regulatory bans."
+        }
+    },
+    {
+        "question": "Can blockchain transactions be anonymous?",
+        "answers": {
+            "a": "Pseudonymously.",
+            "b": "Fully anonymous."
+        }
+    },
+    {
+        "question": "How does blockchain impact data storage?",
+        "answers": {
+            "a": "Centralizes storage.",
+            "b": "Decentralizes storage."
+        }
+    },
+    {
+        "question": "Blockchain in gaming: primary benefit?",
+        "answers": {
+            "a": "Ownership of assets.",
+            "b": "Better graphics."
+        }
+    },
+    {
+        "question": "Can blockchain be regulated?",
+        "answers": {
+            "a": "Yes, indirectly.",
+            "b": "Unregulatable."
+        }
+    },
+    {
+        "question": "Blockchain's role in digital marketing?",
+        "answers": {
+            "a": "Increases transparency.",
+            "b": "No role."
+        }
+    },
+    {
+        "question": "Are all blockchains open source?",
+        "answers": {
+            "a": "All are.",
+            "b": "Mostly, not all."
+        }
+    },
+    {
+        "question": "Impact of blockchain on employment verification?",
+        "answers": {
+            "a": "Makes it harder.",
+            "b": "Simplifies verification."
+        }
+    },
+    {
+        "question": "Does blockchain technology have limitations?",
+        "answers": {
+            "a": "Yes, several.",
+            "b": "None at all."
+        }
+    },
+    {
+        "question": "Do smart contracts require intermediaries?",
+        "answers": {
+            "a": "No, self-executing.",
+            "b": "Yes, essential."
+        }
+    },
+    {
+        "question": "Can blockchain ensure voting transparency?",
+        "answers": {
+            "a": "Yes, fully transparent.",
+            "b": "No, remains opaque."
+        }
+    },
+    {
+        "question": "Is blockchain technology cost-effective?",
+        "answers": {
+            "a": "Reduces costs long-term.",
+            "b": "Increases operational costs."
+        }
+    },
+    {
+        "question": "How do blockchains achieve immutability?",
+        "answers": {
+            "a": "User agreements.",
+            "b": "Cryptographic linking."
+        }
+    },
+    {
+        "question": "Blockchain's primary feature?",
+        "answers": {
+            "a": "Distributed ledger.",
+            "b": "Data storage."
+        }
+    },
+    {
+        "question": "Can blockchain work without miners?",
+        "answers": {
+            "a": "Depends on consensus.",
+            "b": "Miners always needed."
+        }
+    },
+    {
+        "question": "Blockchain in art: primary impact?",
+        "answers": {
+            "a": "Decreases value.",
+            "b": "Proves provenance."
+        }
+    },
+    {
+        "question": "What enables blockchain's operation?",
+        "answers": {
+            "a": "Centralized control.",
+            "b": "Network consensus."
+        }
+    },
+    {
+        "question": "Can blockchain transactions be fast?",
+        "answers": {
+            "a": "Yes, if optimized.",
+            "b": "Inherently slow."
+        }
+    },
+    {
+        "question": "Blockchain's impact on data control?",
+        "answers": {
+            "a": "Empowers users.",
+            "b": "Limits access."
+        }
+    }
+]
